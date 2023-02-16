@@ -1,18 +1,36 @@
-import { useState } from 'react'
+import { Routes, Route, Outlet, Link } from 'react-router-dom';
+import Homepage from './pages/Homepage';
+import Profilepage from './pages/Profilepage';
+import Formpage from './pages/Formpage';
+import Errorpage from './pages/Errorpage';
 
-
-
-function App() {
-
-
-  return (
-  <div>
-    <h1 className="text-3xl font-bold underline p-3 text-blue-500">
+{
+  /* <div className='h-screen bg-websiteMainBg '>
+    <h1 className="text-3xl font-bold underline p-3 text-white">
       Hello world!
-    </h1>
-
-  </div>
-  )
+    </h1> */
 }
 
-export default App
+function App() {
+  return (
+    <div className='h-screen  bg-websiteMainBg '>
+         
+         <div className='text-white h-12 bg-themeModeColor '>
+          <h1>Themebar</h1>
+          
+          </div>
+      <Routes>
+        {/* //TODO: use nested routes if needed */}
+        
+     
+
+        <Route index element={<Homepage />} />
+        <Route path='form' element={<Formpage />} />
+        <Route path='profile' element={<Profilepage />} />
+        <Route path='*' element={<Errorpage />} />
+      </Routes>
+    </div>
+  );
+}
+
+export default App;
