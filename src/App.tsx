@@ -13,9 +13,9 @@ import Errorpage from './pages/Errorpage';
 
 function App() {
   return (
-    <div className='h-screen  bg-websiteMainBg '>
+    <div className='h-screen w-screen bg-websiteMainBg '>
          
-         <div className='text-white h-12 bg-themeModeColor '>
+         <div className='text-white h-[50px] bg-themeModeColor '>
           <h1>Themebar</h1>
           
           </div>
