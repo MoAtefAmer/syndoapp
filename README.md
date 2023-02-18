@@ -10,13 +10,13 @@ Then run the server:
 ```
 yarn dev
 ```
-####Screenshots
+#### Screenshots
 ```
-![Alt text](/screenshots/Image1.png)
-```
-```
-![Alt text](/screenshots/Image2.png)
+![Alt text](/screenshots/Image1.png?raw=true )
 ```
 ```
-![Alt text](/screenshots/Image3.png)
+![Alt text](/screenshots/Image2.png?raw=true )
+```
+```
+![Alt text](/screenshots/Image3.png?raw=true )
 ```
