@@ -1,5 +1,5 @@
 
-import { Navbar, Herosection, Middlesection } from '../components/HomepageComponents'
+import { Navbar, Herosection, Middlesection, Footer } from '../components/HomepageComponents'
 export default function Homepage() {
   return (
 
@@ -7,6 +7,7 @@ export default function Homepage() {
       <Navbar />
       <Herosection />
       <Middlesection />
+      <Footer/>
 
     </>
   )

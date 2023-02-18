@@ -3,11 +3,6 @@ import {Button} from '../shared/Button'
 import logo from '../../assets/logo.svg'
 
 
-// function handleClick(){
-//     const navigate = useNavigate();
-//     // history.pushState(null, "", "/profile");
-//     // navigate("/profile");
-// }
 
 export function Navbar() {
     return (

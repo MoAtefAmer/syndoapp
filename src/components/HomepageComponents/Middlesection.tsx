@@ -33,9 +33,9 @@ export function Middlesection() {
 
         <section className=" ">
         <Headertext text="Here it from our Doers" addtionalStyle="mt-10" /> 
-          <div className="container px-5 py-24 mx-auto">
+          <div className="container px-5 py-24 mx-auto ">
          
-          <div className="flex  flex-wrap sm:-m-4 -mx-4 -mb-10  -mt-4 md:space-y-0 space-y-6 ">
+          <div className="flex  flex-wrap sm:-m-4 -mx-4  -mb-10 -m-4  md:w -mt-4 md:space-y-0 space-y-6 ">
             
            
             <Testimonialcard />
