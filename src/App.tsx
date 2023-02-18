@@ -13,14 +13,14 @@ import Errorpage from './pages/Errorpage';
 
 function App() {
   return (
-    <div className='h-screen w-screen bg-websiteMainBg '>
+    <div className='h-full bg-websiteMainBg '>
          
-         <div className='text-white h-[50px] bg-themeModeColor '>
+         {/* <div className='text-white h-[50px] bg-themeModeColor '>
           <h1>Themebar</h1>
           
-          </div>
+          </div> */}
       <Routes>
-        {/* //TODO: use nested routes if needed */}
+       
         
      
 

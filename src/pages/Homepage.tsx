@@ -1,17 +1,13 @@
-import React from 'react'
 
-import Button from '../components/shared/Button'
-import {Navbar, Herosection} from '../components/HomepageComponents'
+import {Navbar, Herosection, Middlesection} from '../components/HomepageComponents'
 export default function Homepage() {
   return (
 
-    <div className=' relative  my-[60px] container mx-auto '>
+    <div className='    mx-auto  ' style={{ scrollBehavior: 'smooth' }}>
 
       <Navbar/>
       <Herosection/>
-
-
-
+      <Middlesection/>
 
     </div>
   )

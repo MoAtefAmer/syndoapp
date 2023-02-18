@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Telda",
+        "situation":"PRE-SEED",
+        "desc": "Syndo derived from syndication and is here to bridge the gap between Business Owners and Investors",
+        "category": "Fintech",
+        "strategy":"Equity",
+        "isLive":false,
+        "image":"src/assets/companies/telda.png"
+    },
+    {
+        "id": 2,
+        "name": "Trella",
+        "situation":"Series-A",
+        "desc": "Syndo derived from syndication and is here to bridge the gap between Business Owners and Investors",
+        "category": "Transportation",
+        "strategy":"Equity",
+        "isLive":true,
+        "image":"src/assets/companies/trella.png"
+    },
+    {
+        "id": 3,
+        "name": "Kiwe",
+        "situation":"Series-A",
+        "desc": "Syndo derived from syndication and is here to bridge the gap between Business Owners and Investors",
+        "category": "Transportation",
+        "strategy":"Debt",
+        "isLive":true,
+        "image":"src/assets/companies/kiwe.png"
+    }
+  
+]

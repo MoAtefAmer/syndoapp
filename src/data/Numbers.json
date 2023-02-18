@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "upperText": "100",
+        "lowerText": "Rounds"
+    },
+    {
+        "id": 2,
+        "upperText": "EGP 200K",
+        "lowerText": "Total Raised"
+    },
+    {
+        "id": 3,
+        "upperText": "EGP 50K+",
+        "lowerText": "Total Raised"
+    },
+    {
+        "id": 4,
+        "upperText": "30+",
+        "lowerText": "Startups"
+    }
+]
