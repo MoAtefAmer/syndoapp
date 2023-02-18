@@ -42,6 +42,9 @@ export  function Footer() {
             <a className="text-gray-400 hover:text-white text-base">FAQs</a>
           </li>
           <li>
+
+
+            
             <a className="text-gray-400 hover:text-white text-base">Contact us</a>
           </li>
      
