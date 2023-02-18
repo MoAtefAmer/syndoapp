@@ -12,11 +12,11 @@ yarn dev
 ```
 #### Screenshots
 ```
-![Alt text](/screenshots/Image1.png?raw=true "Optional Title")
+![Alt text](./public/screenshots/Image1.PNG)
 ```
 ```
-![Alt text](/screenshots/Image2.png?raw=true "Optional Title")
+![alt text](./public/screenshots/Image2.png)
 ```
 ```
-![Alt text](/screenshots/Image3.png?raw=true "Optional Title")
+![Alt text](./public/screenshots/Image3.png)
 ```
