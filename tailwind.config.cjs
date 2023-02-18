@@ -31,7 +31,9 @@ module.exports = {
           gradStart:"#054546",
           gradEnd:"#C4C4C4",
         },
-
+        Card:{
+          border:"#656F77"
+        },
         pill:{
           bgPrimary:"#DDF3F4",
           bgSecondary:"#FFDEB7",

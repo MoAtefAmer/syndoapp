@@ -22,16 +22,16 @@ type CompanycardProps = {
 
 export function Companycard({ data }: CompanycardProps) {
   return (
-    <div className="p-4 2xl:w-[514px]   lg:w-[320px] xl:w-[400px] ">
-      <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+    <div className="p-4 2xl:w-[514px]   lg:w-[320px] xl:w-[400px] w-[355px] md:w-auto ">
+      <div className="h-full border-1  rounded-lg overflow-hidden">
 
         {/* Company Logo */}
-        <img className=" w-full h-[262px]  object-cover object-center" src={cardimage} alt="blog" />
+        <img className=" md:w-full h-[262px]  object-cover md:object-center" src={cardimage} alt="blog" />
 
         {/* Image  */}
-        <div className="flex  justify-between -mb-[100px] relative bottom-[120px] " >
+        <div className="flex  justify-between -mb-28 relative bottom-[120px] " >
       
-          <div className="relative   left-[31px] z-10 ">
+          <div className="relative  left-[31px] z-10 ">
             <Companylogo img={data.image} />
             
           </div>

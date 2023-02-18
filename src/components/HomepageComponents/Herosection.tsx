@@ -36,7 +36,7 @@ export function Herosection() {
                 </div>
 
                 <div className="lg:max-w-lg lg:w-full xl:relative xl:right-20 xl:h-96   ">
-                    <img className=" bg-cover rounded-2xl " alt="hero" src={hero} />
+                    <img className=" bg-cover rounded-2xl  " alt="hero" src={hero} />
                 </div>
             </div>
         </section>
