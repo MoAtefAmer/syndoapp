@@ -15,10 +15,10 @@ yarn dev
 
 #### Screenshots
 
-![Alt text](./public/screenshots/Image1.PNG?raw=true "")
+![Alt text](./screenshots/Image1.PNG?raw=true "")
 
 
-![alt text](./public/screenshots/Image2.png)
+![alt text](./screenshots/Image2.png)
 
 
-![Alt text](./public/screenshots/Image3.png)
+![Alt text](./screenshots/Image3.png)
