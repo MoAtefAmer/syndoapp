@@ -11,7 +11,7 @@ function App() {
     <div className='h-full bg-websiteMainBg '>
   
       <Routes>
-        <Route index element={<Homepage />} />
+        <Route path="/" element={<Homepage />} />
         <Route path='form' element={<Formpage />} />
         <Route path='profile' element={<Profilepage />} />
         <Route path='*' element={<Errorpage />} />
