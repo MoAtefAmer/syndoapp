@@ -5,12 +5,13 @@
   "type": "module",
   "homepage": "https://MoAtefAmer.github.io/syndoapp",
   "scripts": {
+
+    "dev": "vite",
+  
+    "build": "vite build",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist",
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
+    "preview": "vite preview"  },
   "dependencies": {
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
