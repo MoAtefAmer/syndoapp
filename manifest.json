@@ -1,0 +1,51 @@
+{
+  "index.css": {
+    "file": "assets/index.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/logo.svg",
+      "assets/hero.png",
+      "assets/cardimage.png",
+      "assets/johndoe.png",
+      "assets/janebrown.png",
+      "assets/alexmercer.png",
+      "assets/comma.svg"
+    ],
+    "css": [
+      "assets/index.css"
+    ],
+    "file": "assets/index.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/cardimage.png": {
+    "file": "assets/cardimage.png",
+    "src": "src/assets/cardimage.png"
+  },
+  "src/assets/companies/alexmercer.png": {
+    "file": "assets/alexmercer.png",
+    "src": "src/assets/companies/alexmercer.png"
+  },
+  "src/assets/companies/comma.svg": {
+    "file": "assets/comma.svg",
+    "src": "src/assets/companies/comma.svg"
+  },
+  "src/assets/companies/janebrown.png": {
+    "file": "assets/janebrown.png",
+    "src": "src/assets/companies/janebrown.png"
+  },
+  "src/assets/companies/johndoe.png": {
+    "file": "assets/johndoe.png",
+    "src": "src/assets/companies/johndoe.png"
+  },
+  "src/assets/hero.png": {
+    "file": "assets/hero.png",
+    "src": "src/assets/hero.png"
+  },
+  "src/assets/logo.svg": {
+    "file": "assets/logo.svg",
+    "src": "src/assets/logo.svg"
+  }
+}
